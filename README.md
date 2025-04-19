@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/HarshTomar1234/LoRA-QLoRA-Implementation?style=social)
+![GitHub stars](https://img.shields.io/github/stars/HarshTomar1234/PyTorch-LoRA-QLoRA?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-orange)
