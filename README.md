@@ -91,8 +91,8 @@ Key innovations in QLoRA:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/LoRA-QLoRA-Implementation.git
-cd LoRA-QLoRA-Implementation
+git clone https://github.com/HarshTomar1234/PyTorch-LoRA-QLoRA.git
+cd PyTorch-LoRA-QLoRA
 
 # Create and activate a virtual environment
 python -m venv venv
